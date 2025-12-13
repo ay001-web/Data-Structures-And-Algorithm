@@ -1,3 +1,4 @@
+
 public class sum {
     public static void main(String args[]) {
         // Code to calculate sum of numbers
@@ -8,3 +9,4 @@ public class sum {
     }
     
 }
+
