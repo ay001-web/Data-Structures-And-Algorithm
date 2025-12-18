@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 // Average of 3 numbers
 public class Average  {

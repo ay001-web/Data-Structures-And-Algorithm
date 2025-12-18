@@ -1,3 +1,4 @@
+package Basics;
 public class DataTypes {
     public static void main(String args[]){
     byte b=8;

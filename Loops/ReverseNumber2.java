@@ -1,3 +1,4 @@
+package Loops;
 public class ReverseNumber2 {
     public static void main(String args[]) {
         int n = 22456;
