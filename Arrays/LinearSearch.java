@@ -17,7 +17,7 @@ public class LinearSearch {
             System.out.println("NOT Found");
         }
         else {
-            System.out.println("Key is at index: " + index);
+            System.out.println("Key is at index : " + index);
         }
 
     }
