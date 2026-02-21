@@ -11,9 +11,10 @@ public class ArrayFunction {
         update(marks);
 
         //print our marks
-        for(int i =0;i<marks.length;i++) {
+        for(int i=0;i<marks.length;i++) {
             System.out.print(marks[i] +" ");
         }
+        
         System.out.println();
     }
     
